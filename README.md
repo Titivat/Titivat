@@ -1,14 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4A90D9&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Titivat;Full-Stack+Developer;Python+%C2%B7+Web+%C2%B7+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Titivat+%F0%9F%91%8B;Full-Stack+Developer;Python+%C2%B7+Web+%C2%B7+AI" alt="Typing SVG" />
+
+  <p>I build full-stack web apps, backend APIs, and AI-powered data pipelines.<br/>
+  Currently working with <strong>Python</strong>, <strong>FastAPI</strong>, and financial data.</p>
+
+  <a href="mailto:titivatmo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Titivat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
-
-<br/>
-
-I build full-stack web apps, backend APIs, and AI-powered data pipelines. Currently working with **Python**, **FastAPI**, and financial data.
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -33,9 +39,17 @@ I build full-stack web apps, backend APIs, and AI-powered data pipelines. Curren
 
 ---
 
-### Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Titivat&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titivat&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Titivat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titivat&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Titivat&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Titivat&theme=tokyo-night&hide_border=true&area=true" />
 </div>
