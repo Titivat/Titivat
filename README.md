@@ -13,6 +13,9 @@
   <a href="https://github.com/Titivat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Titivat&style=flat-square&color=4A90D9" alt="Profile views" />
 </div>
 
 ---
@@ -39,12 +42,3 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Titivat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titivat&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
