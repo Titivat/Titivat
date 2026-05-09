@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Titivat+%F0%9F%91%8B;Full-Stack+Developer;Python+%C2%B7+Web+%C2%B7+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Titivat+%F0%9F%91%8B;Full-Stack+Developer;Python+%C2%B7+FastAPI+%C2%B7+AI;Building+smart+data+pipelines" alt="Typing SVG" />
 
   <p>I build full-stack web apps, backend APIs, and AI-powered data pipelines.<br/>
   Currently working with <strong>Python</strong>, <strong>FastAPI</strong>, and financial data.</p>
@@ -17,6 +17,14 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Titivat&style=flat-square&color=4A90D9" alt="Profile views" />
 </div>
+
+---
+
+## About Me
+
+- Building **full-stack applications** with Python backends and modern frontends
+- Specializing in **financial data pipelines** and **AI-powered** systems
+- Passionate about clean APIs, scalable architecture, and data-driven products
 
 ---
 
@@ -42,3 +50,16 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Titivat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titivat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Titivat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
