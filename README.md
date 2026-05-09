@@ -45,11 +45,3 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Titivat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titivat&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Titivat&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Titivat&theme=tokyo-night&hide_border=true&area=true" />
-</div>
